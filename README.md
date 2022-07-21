@@ -1,2 +1,2 @@
 # stepik_auto_tests_course
-Это тренировочный проэкт, по учебному курсу stepik "Автоматизация тестирования с помощью Selenium и Python"
+This is a training project, according to the stepik training course "Test Automation with Selenium and Python"
